@@ -21,3 +21,27 @@
 <referer>http://streamin.to/6ml4hj5l1bnq</referer>
 </regex>
 </item>
+
+<item>
+<title>Stand By Me Doraemon (2015) (malay language) - Japan</title>
+<link>$doregex[url] app=vod?h=$doregex[h-key] playpath=$doregex[p-key] swfUrl=http://streamin.to/player/player.swf pageUrl=http://streamin.to/embed-649bp56ojetp-640x360.html</link>
+<thumbnail>http://moviemotion.com.my/wp-content/uploads/2015/01/Stand-By-Me-DORAEMON.jpg</thumbnail>
+<regex>
+<name>url</name>
+<expres>streamer: "([^"]*)</expres>
+<page>http://streamin.to/embed-649bp56ojetp-640x360.html</page>
+<referer>http://streamin.to/649bp56ojetp</referer>
+</regex>
+<regex>
+<name>h-key</name>
+<expres>mp4\?h=([^"]*)</expres>
+<page>http://streamin.to/embed-649bp56ojetp-640x360.html</page>
+<referer>http://streamin.to/649bp56ojetp</referer>
+</regex>
+<regex>
+<name>p-key</name>
+<expres>file: "([^"]*)</expres>
+<page>http://streamin.to/embed-649bp56ojetp-640x360.html</page>
+<referer>http://streamin.to/649bp56ojetp</referer>
+</regex>
+</item>
