@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+    <items_info> <!-- this is opitonal -->
+      <title>[COLOR=red]Google Drive Movie **need gdrive addon [/COLOR]</title> <!-- a title is required, other elements are optional -->
+
+
+<item>
+<title>Boy 7 (2015) **need gdrive addon</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B_tbBahdqSYSSGM1X0ZOWm9NV00/preview</link>
+</item>
+
+
+
+<item>
+<title>Treasure Hunter **need gdrive addon</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0Bw3gutjwfxWRaTBYbzNjMkdDTFE/preview</link>
+</item>
+
+<item>
+<title>21 jumps street **need gdrive addon</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0Bzgko7GWUSj_dWxjTnJNSGxrSFE/edit?pli=1</link>
+</item>
+
+
+<item>
+<title>Cinderella 2015 **need gdrive addon</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B08By2OZLR5fdjhOUmhvU1Q3MkU/view</link>
+</item>
+
+<item>
+<title>Contraband **need gdrive addon</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0Bzrdb2cUfqapMF9zb2NiOGduWGs/edit?pli=1</link>
+</item>
+
+<item>
+<title>50 shades of gray **need gdrive addon</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/folderview?id=0ByyROgoPHHHvfkg0Mmp5bkplMEhNYVc0aWZnYml5dlV0M0kzNlVYd2dEUmZGVEVXQ0F1MTQ</link>
+</item>
+
+<item>
+<title>The day after tomarrow **need gdrive addon</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://docs.google.com/file/d/0B_PSqrPaRN9JZDRra2FLRDlPSGs/edit</link>
+</item>
+
+<item>
+<title>Ocean Eleven **need gdrive addon</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B65A7C_x58chZnRyOTZuVjZSaFk/edit</link>
+</item>
+
+<item>
+<title>Ocean Twelve **need gdrive addon</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B65A7C_x58chdWNlN3RyNGota2s/edit</link>
+</item>
+
+<item>
+<title>Ocean Thirteen **need gdrive addon</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B65A7C_x58chelZVdUZwRXFqalU/edit</link>
+</item>
+
+
+
+
+
+
